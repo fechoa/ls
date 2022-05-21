@@ -19,7 +19,7 @@ This is an implementation of a Unix utility that my partner and I wrote in C. It
 2. Start the program, like this:
 
    ```sh
-   $ ./ft_ls [-RSUltarru] [file ...]
+   $ ./ft_ls [-RSUltaru] [file ...]
    ```
 
 
